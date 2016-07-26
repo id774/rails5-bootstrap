@@ -1,0 +1,11 @@
+section {
+  padding-top: 20px;
+}
+a {
+  color: #0033CC;
+  text-decoration: none;
+}
+a:hover {
+  color: #1111CC;
+  text-decoration: underline;
+}
