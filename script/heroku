@@ -1,6 +1,6 @@
 #!/bin/sh
 
-heroku create rails4-bootstrap
+heroku create rails5-bootstrap
 git push heroku master
 heroku addons:create heroku-postgresql
 heroku run rake db:migrate

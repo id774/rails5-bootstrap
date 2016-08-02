@@ -1,13 +1,13 @@
-Rails4 Bootstrap
+Rails5 Bootstrap
 ================
 
-**A simple rails4 starting point**
+**A simple rails5 starting point**
 
 
 Description
 -----------
 
-Rails4 Bootstrap supports:
+Rails5 Bootstrap supports:
 
 * [Twitter Bootstrap](http://getbootstrap.com/)
 * [Haml](http://haml-lang.com/)
@@ -15,7 +15,7 @@ Rails4 Bootstrap supports:
 * [Compass](https://github.com/chriseppstein/compass)
 
 
-## What is the purpose of Rails4 Bootstrap?
+## What is the purpose of Rails5 Bootstrap?
 
 I created Rails4 Bootstrap in order to have a consistent starting point for my rails projects. I like having Haml, Sass and Compass available to me in every project, likewise jQuery makes its way into every production as well. A number of helpful rake tasks have also been included.
 
