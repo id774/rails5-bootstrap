@@ -1,4 +1,4 @@
-# Version:20160726
+# Version:20160803
 
 source 'https://rubygems.org'
 
@@ -21,6 +21,11 @@ gem 'rails_12factor', group: :production
 
 group :doc do
   gem 'sdoc', require: false
+end
+
+group :test do
+  gem 'rspec', '~> 3.5'
+  gem 'rspec-rails', '~> 3.5'
 end
 
 gem "will_paginate"
